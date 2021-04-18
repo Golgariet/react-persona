@@ -58,40 +58,30 @@ function Home() {
           </div>
           <div className="contact_section">
             <ul>
-              <li>
-                Telephone
-                <svg className="icon">
-                  <use xlinkHref="./assets/icons/phone.svg#icon-phone"></use>
-                </svg>
-              </li>
-              <li>
-                Email
-                <svg className="icon">
-                  <use xlinkHref="./assets/icons/mail.svg#icon-mail"></use>
-                </svg>
-              </li>
+              <li>Telephone</li>
+              <svg className="icon">
+                <use xlinkHref="./assets/icons/phone.svg#icon-phone"></use>
+              </svg>
+              <li>Email</li>
+              <svg className="icon">
+                <use xlinkHref="./assets/icons/mail.svg#icon-mail"></use>
+              </svg>
             </ul>
           </div>
           <div className="contact_section">
             <ul>
-              <li>
-                Instagram
-                <svg className="icon">
-                  <use xlinkHref="./assets/icons/instagram-with-circle.svg#icon-insta"></use>
-                </svg>
-              </li>
-              <li>
-                Twitter
-                <svg className="icon">
-                  <use xlinkHref="./assets/icons/twitter.svg#icon-twitter"></use>
-                </svg>
-              </li>
-              <li>
-                Facebook
-                <svg className="icon">
-                  <use xlinkHref="./assets/icons/facebook.svg#icon-facebook"></use>
-                </svg>
-              </li>
+              <li>Instagram</li>
+              <svg className="icon">
+                <use xlinkHref="./assets/icons/instagram-with-circle.svg#icon-insta"></use>
+              </svg>
+              <li>Twitter</li>
+              <svg className="icon">
+                <use xlinkHref="./assets/icons/twitter.svg#icon-twitter"></use>
+              </svg>
+              <li>Facebook</li>
+              <svg className="icon">
+                <use xlinkHref="./assets/icons/facebook.svg#icon-facebook"></use>
+              </svg>
             </ul>
           </div>
         </div>

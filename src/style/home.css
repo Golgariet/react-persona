@@ -147,9 +147,11 @@
   height: 100%;
   color: #ece8e1;
   font-size: 22px;
+  display: flex;
 }
 
 .icon {
   width: 10%;
   height: 10%;
+  fill: #ece8e1;
 }
